@@ -1,2 +1,2 @@
-Hello
-Good Bye\!
+some text
+some more text
